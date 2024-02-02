@@ -63,5 +63,4 @@ software.
     <img align="center" alt="MySql" height= "30" width="40" src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo">
   
   </div>
-  ![Snake animation](https://github.com/Luiz227/Luiz227/blob/output/github-contribution-grid-snake.svg)
 
