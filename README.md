@@ -1,5 +1,5 @@
 #<!--título-->
-![Snake animation](https://github.com/Luiz227/Luiz227/blob/output/github-contribution-grid-snake.svg)
+)
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
@@ -62,6 +62,6 @@ software.
     <img align="center" alt="androidstudio" height= "30" width="40" src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo">
     <img align="center" alt="MySql" height= "30" width="40" src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo">
   
-   
   </div>
+  ![Snake animation](https://github.com/Luiz227/Luiz227/blob/output/github-contribution-grid-snake.svg)
 
