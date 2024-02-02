@@ -8,7 +8,7 @@
 <p>
 Hello 👋, I'm Luiz! A passionate systems analysis and development student from Brazil.
 
-  - 🌱 I am currently analyzing and developing systems at Unip
+  - 🌱 I am currently studying analyzing and developing systems at Unip
 
   - 🔭 I'm looking for my first job opportunity. My dream is to one day work with AI
 </p>
