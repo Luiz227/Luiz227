@@ -18,7 +18,7 @@ Hello 👋, I'm Luiz! A passionate systems analysis and development student from
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬I'm 22 years old, I currently live in Brazil. I have basic English and basic knowledge of SQL, Python, C#, HMTL, CSS. I have experience in logistics, which gave me organizational and management skills.
+  - 💬I'm 23 years old, I currently live in Brazil. I have basic English and basic knowledge of SQL, Python, C#, HMTL, CSS. I have experience in logistics, which gave me organizational and management skills.
 time management that can be valuable in a business development environment
 software.
   - ⚡I like reading, whether it's a good book, manga or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more accurate perception of things and to solving problems. 
